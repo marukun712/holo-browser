@@ -1,6 +1,6 @@
 # holo-browser
 ```
-npm install electron
+npm install 
 ```
 後、
 ```
